@@ -6,7 +6,7 @@
 * [Education](#education)
 * [Interesting](#interesting)
 * [Research](#Research)
-* [Research](#Research)
+* [Certificate](#Certificate)
 
 # **EDUCATION**
 ## **Master's Student in Mechatronics and Robot Systems**
@@ -41,5 +41,5 @@
 # **Research**
 -Iammala, P. (2025). Development of a Pneumatic Circuit Assembly Skills Training Package for the Pneumatic and Hydraulic Control Course among Higher Vocational Certificate Students in Mechatronics and Robotics at Surin Technical College [Classroom action research]. Surin Technical College.
 
-# **Cietificate**
+# **Certificate**
 - คลิกที่นี่เพื่อดูรูปภาพวัยเด็ก: [ดูรูปภาพวัยเด็ก](image/firstSchool.jpg)
