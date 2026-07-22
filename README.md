@@ -3,7 +3,8 @@
 **Surin Technical College**
 ---
 ## สารบัญ (Table of Contents)
-[1. EDUCATION](# **EDUCATION**)
+* [Education](#education)
+* [Skills & Background](#skills-acquired-at-university)
 
 
 # **EDUCATION**
