@@ -15,3 +15,7 @@
 
 ## **Graduated from high school in the gifted class.**
 **Triam Udom Suksa Phatthanakan Ubon Ratchathani School**
+
+## **Graduated from First School.**
+**Thetsaban Burapha Ubon School**
+![My Profile Picture](image/firstSchool.jpg)
