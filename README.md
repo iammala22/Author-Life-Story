@@ -26,4 +26,7 @@
 </p>
 
 # **Things of interest**
-- Programming
+- Programming (C, C++, Python)
+- Microcontroller
+- Prpgrammable Logic control
+- Robotics
