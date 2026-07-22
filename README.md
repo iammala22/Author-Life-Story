@@ -10,7 +10,7 @@
 **The Eastern University of Management and Technology**
 
 ## **Bachelor of Engineering in Mechatronics Engineering**
-**Rajamangala University of Technology Isan(RMUTI)**
+**Rajamangala University of Technology Isan(RMUTI)| 2023**
 **Graduated with a Bachelor's degree in 2023**
 
 ## **Graduated from high school in the gifted class.**
