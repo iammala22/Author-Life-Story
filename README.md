@@ -11,11 +11,13 @@
 **Suranaree University of Technology**
 
 ## **Graduate Diploma in Mechatronics Teaching Profession**
-**The Eastern University of Management and Technology**
+**The Eastern University of Management and Technology| 2025**
 
 ## **Bachelor of Engineering in Mechatronics Engineering**
 **Rajamangala University of Technology Isan(RMUTI)| 2023**<br>
 ### **Skills acquired at university**
+1.Mechatronics Design
+2.Basic Programming
 
 ## **Graduated from high school in the gifted class.**
 **Triam Udom Suksa Phatthanakan Ubon Ratchathani School**
