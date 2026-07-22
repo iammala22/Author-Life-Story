@@ -19,6 +19,6 @@
 ## **Graduated from First School.**
 **Thetsaban Burapha Ubon School**
 <p align="center">
-  <img src="image/image/firstSchool.jpg" width="40%" alt="When A Pie Graduagted in first School">
+  <img src="image/firstSchool.jpg" width="40%" alt="When a little boy named Pie finished first graduated">
 </p>
 
