@@ -4,7 +4,6 @@
 ---
 ## สารบัญ (Table of Contents)
 * [Education](#education)
-* [Skills & Background](#skills-acquired-at-university)
 
 
 # **EDUCATION**
