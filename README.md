@@ -4,7 +4,7 @@
 ---
 ## สารบัญ (Table of Contents)
 * [Education](#education)
-* [Interesting](#interestin)
+* [Interesting](#interest in)
 
 # **EDUCATION**
 ## **Master's Student in Mechatronics and Robot Systems**
