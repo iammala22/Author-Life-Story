@@ -25,7 +25,7 @@
   <img src="image/firstSchool.jpg" width="40%" alt="When a little boy named Pie finished first graduated">
 </p>
 
-# **Things of interest**
+# **interest in**
 - Programming (C, C++, Python)
 - Microcontroller
 - Prpgrammable Logic control
