@@ -1,7 +1,8 @@
 # **Prakasit (Pie) Iammala**
-### **Instructor** | Surin Technical College
-### **Graduate Student** | Master of Engineering in Mechatronics and Robot Systems
-### Suranaree University of Technology
+## Department of Mechatronics and Robotics
+## Surin Technical College
+## Master's Student in Mechatronics and Robot Systems
+## Suranaree University of Technology
 
 # **EDUCATION**
 **Master's Student in Mechatronics and Robot Systems**
