@@ -4,7 +4,7 @@
 ---
 ## สารบัญ (Table of Contents)
 * [Education](#education)
-* [Interesting](#interest in)
+* [Interesting](#interesting)
 
 # **EDUCATION**
 ## **Master's Student in Mechatronics and Robot Systems**
@@ -28,7 +28,7 @@
   <img src="image/firstSchool.jpg" width="40%" alt="When a little boy named Pie finished first graduated">
 </p>
 
-# **interest in**
+# **interesting**
 - Programming (C, C++, Python)
 - Microcontroller
 - Prpgrammable Logic control
