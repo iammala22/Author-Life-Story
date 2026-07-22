@@ -1,6 +1,10 @@
 # **Prakasit (Pie) Iammala**
 **Department of Mechatronics and Robotics**
 **Surin Technical College**
+---
+## สารบัญ (Table of Contents)
+[1. EDUCATION](# **EDUCATION**)
+
 
 # **EDUCATION**
 ## **Master's Student in Mechatronics and Robot Systems**
