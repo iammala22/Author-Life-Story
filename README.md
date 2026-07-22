@@ -1,6 +1,6 @@
 # **Prakasit "Pie" Iammala**
-Department of Mechatronics And Robotics <be>
-Surin Technical College <br>
+**Department of Mechatronics And Robotics** <be>
+**Surin Technical College** <br>
 
 ---
 # EDUCATION
