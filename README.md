@@ -1,5 +1,6 @@
 # **Prakasit "Pie" Iammala**
-Teaching at Surin Technical College
+Department of Mechatronics And Robotics <be>
+Surin Technical College <br>
 Master's Student in Mechatronics and Robot Systems
 Suranaree University of Technology
 ---
