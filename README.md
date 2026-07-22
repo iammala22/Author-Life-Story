@@ -30,3 +30,7 @@
 - Microcontroller
 - Prpgrammable Logic control
 - Robotics
+
+# **Research**
+-P. Iammala, การพัฒนาแบบฝึกทักษะการต่อวงจรนิวเมติกส์ ในรายวิชาการควบคุมนิวเมติกส์และไฮดรอลิกส์ ของนักศึกษาระดับประกาศนียบัตรวิชาชีพชั้นสูง สาขาวิชาเมคคาทรอนิกส์และหุ่นยนต์ วิทยาลัยเทคนิคสุรินทร์, Classroom Research, Surin Technical College, Thailand, 2025.
+
