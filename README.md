@@ -16,10 +16,13 @@
 ## **Bachelor of Engineering in Mechatronics Engineering**
 **Rajamangala University of Technology Isan(RMUTI) | 2023**<br>
 
-## **Graduated from high school in the gifted class.**
-**Triam Udom Suksa Phatthanakan Ubon Ratchathani School | 2019**
+## **Graduated from high school(gifted class).**
+**Triam Udom Suksa Phatthanakan Ubon Ratchathani School | 2016**
 
-## **Graduated from First School.**
+## **Graduated from Junior High School(Math - science)**
+**Patumpittayakom school | 2013**
+
+## **Graduated from Elementary School School**
 **Thetsaban Burapha Ubon School**
 <p align="center">
   <img src="image/firstSchool.jpg" width="40%" alt="When a little boy named Pie finished first graduated">
