@@ -16,7 +16,7 @@
 ## **Bachelor of Engineering in Mechatronics Engineering**
 **Rajamangala University of Technology Isan(RMUTI)| 2023**<br>
 ### **Skills acquired at university**
-1.Mechatronics Design
+1.Mechatronics Design <br>
 2.Basic Programming
 
 ## **Graduated from high school in the gifted class.**
