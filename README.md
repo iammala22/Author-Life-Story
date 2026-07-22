@@ -30,7 +30,9 @@
 - Microcontroller
 - Prpgrammable Logic control
 - Robotics
+- themodynamics
+- pneumatics and hydualics
 
 # **Research**
--P. Iammala, การพัฒนาแบบฝึกทักษะการต่อวงจรนิวเมติกส์ ในรายวิชาการควบคุมนิวเมติกส์และไฮดรอลิกส์ ของนักศึกษาระดับประกาศนียบัตรวิชาชีพชั้นสูง สาขาวิชาเมคคาทรอนิกส์และหุ่นยนต์ วิทยาลัยเทคนิคสุรินทร์, Classroom Research, Surin Technical College, Thailand, 2025.
+-Iammala, P. (2025). Development of a Pneumatic Circuit Assembly Skills Training Package for the Pneumatic and Hydraulic Control Course among Higher Vocational Certificate Students in Mechatronics and Robotics at Surin Technical College [Classroom action research]. Surin Technical College.
 
