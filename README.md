@@ -18,4 +18,7 @@
 
 ## **Graduated from First School.**
 **Thetsaban Burapha Ubon School**
-![My Profile Picture](image/firstSchool.jpg)
+<p align="center">
+  <img src="image/image/firstSchool.jpg" width="40%" alt="When A Pie Graduagted in first School">
+</p>
+
