@@ -2,7 +2,7 @@
 **Department of Mechatronics and Robotics**
 **Surin Technical College**
 ---
-## สารบัญ (Table of Contents)
+## Table of Contents
 * [Education](#education)
 * [Interesting](#interesting)
 * [Research](#Research)
